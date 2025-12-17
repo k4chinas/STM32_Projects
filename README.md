@@ -1,4 +1,5 @@
 --------------MPU9250--------------
+
 If you are using I2C communication in the MPU9250 file, everything works fine. I also added an angle calculation section. 
 If you are using SPI communication, I haven't finished the magnetic section yet.
 
